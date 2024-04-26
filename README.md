@@ -11,7 +11,7 @@
 :us:
 ### Hello there 👋. My name is Bruno Batista and I'm a student of Computer Engineer at Instituto Federal do Sul de Minas - Câmpus Poços de Caldas.
   
-- 🔭 In the moment working at Engsupport and EJ Turing
+- 🔭 At the moment working at Engsupport and EJ Turing
 - 🌱 Full-Stack developer, with knowledge about databases (MySQL e SQL Server)
 - 👯 Developer for Mobile, Web and 2D/3D Games
 - 🤔 Interested in all areas of computing, both Hardware and Software
