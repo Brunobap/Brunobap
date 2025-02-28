@@ -5,7 +5,7 @@
 - 🌱 Desenvolvedor Full-Stack, com conhecimento em banco de dados (MySQL e SQL Server)
 - 👯 Desenvolvedor Mobile, Web e de Jogos 2D e 3D
 - 🤔 Interressado em todas as áreas da computação, tanto Hardware quanto Software
-- 💬 Liguagens aprendidas (programação/marcação): C, C#, Python, Lua, Java, React.js, React Native, Javascript, Html, Css, Assembly
+- 💬 Liguagens aprendidas (programação/marcação): C, C#, Python, Lua, Java, React.js, React Native, Javascript, Html, Css, Assembly, Flutter/Dart
 - 📫 Meu e-mail de contato é bruno@engsupport.eti.br
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 :us:
@@ -15,5 +15,5 @@
 - 🌱 Full-Stack developer, with knowledge about databases (MySQL e SQL Server)
 - 👯 Developer for Mobile, Web and 2D/3D Games
 - 🤔 Interested in all areas of computing, both Hardware and Software
-- 💬 Languages learned (programming/markup): C, C#, Python, Lua, Java, React.js, React Native, Javascript, Html, Css, Assembly
+- 💬 Languages learned (programming/markup): C, C#, Python, Lua, Java, React.js, React Native, Javascript, Html, Css, Assembly, Flutter/Dart
 - 📫 My e-mail for contact is bruno@engsupport.eti.br
